@@ -80,15 +80,17 @@ python ai_predictor.py
 ---
 ## 📸 Project Results
 
-### Normal X-ray Prediction
+<table>
+<tr>
+<td align="center"><b>Normal X-ray Prediction</b></td>
+<td align="center"><b>Abnormal X-ray Prediction</b></td>
+</tr>
 
-![Normal X-ray](Normal.png)
-
----
-
-### Abnormal X-ray Prediction
-
-![Abnormal X-ray](abnormal.png)
+<tr>
+<td><img src="Normal.png" width="400"></td>
+<td><img src="abnormal.png" width="400"></td>
+</tr>
+</table>
 
 ## Workflow
 
