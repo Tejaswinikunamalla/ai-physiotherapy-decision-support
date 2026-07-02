@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Python distribution
+build/
+dist/
+*.egg-info/
+
+# IDE files
+.vscode/
+.idea/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# TensorFlow checkpoints
+*.ckpt
+*.index
+*.meta
+checkpoint/
+
+# Saved models
+saved_model/
+*.h5
+*.keras
+
+# Cache
+.cache/
+.pytest_cache/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Environment variables
+.env
+
+# Google Colab
+/content/
+
+# Mac files
+.AppleDouble
+.LSOverride
+
+# Windows files
+Desktop.ini
