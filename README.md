@@ -97,7 +97,6 @@ python ai_predictor.py
 - Improved rehabilitation recommendations
 - Multi-class bone fracture classification
 - Integration with hospital management systems
-
 ---
 
 ##  License
