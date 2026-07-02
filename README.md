@@ -78,6 +78,17 @@ python ai_predictor.py
 ```
 
 ---
+## 📸 Project Results
+
+### Normal X-ray Prediction
+
+![Normal X-ray](Normal.png)
+
+---
+
+### Abnormal X-ray Prediction
+
+![Abnormal X-ray](abnormal.png)
 
 ## Workflow
 
