@@ -58,7 +58,7 @@ The **AI-Assisted Decision Support System for Physiotherapy Requirement** is a d
 Clone the repository:
 
 ```
-git clone https://github.com/your-username/your-repository-name.git
+git clone https://github.com/Tejaswinikunamalla/ai-physiotherapy-decision-support.git
 ```
 
 Install the required dependencies:
